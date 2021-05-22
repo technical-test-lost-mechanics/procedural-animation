@@ -56,6 +56,8 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
-    "core-js": "^3.8.1"
+    "core-js": "^3.8.1",
+    "paper": "^0.12.15",
+    "simplex-noise": "^2.4.0"
   }
 }
